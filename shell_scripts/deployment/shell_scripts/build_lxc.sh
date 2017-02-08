@@ -10,6 +10,12 @@
 
 source "$1"
 
+file_path="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/$(basename $BASH_SOURCE)"
+main_dir=`echo $file_path | sed 's/\/deployment\/.*/\/deployment/'`
+
+echo $main_dir
+
+
 # download lxc image
 lxc-create -t download -n $server_name -- -d $os -r $os_version -a $arch > /dev/null 2>&1
 
@@ -21,9 +27,9 @@ cp $var_file_path $path/tmp
 
 cp $HOME/.ssh/id_rsa_$server_name.pub $path/tmp
 
-sudo sed "s/{{ user }}/$user/g" /etc/ansible/helper_scripts/shared_files/centos_7/sshd_config | sudo tee $path/tmp/sshd_config > /dev/null 2>&1
+sudo sed "s/{{ user }}/$user/g" $main_dir/shared_files/centos_7/sshd_config | sudo tee $path/tmp/sshd_config > /dev/null 2>&1
 
-cp /etc/ansible/helper_scripts/shared_files/centos_7/ssh_init.sh $path/tmp
+cp $main_dir/shared_files/centos_7/ssh_init.sh $path/tmp
 
 echo "
 Host $server_name

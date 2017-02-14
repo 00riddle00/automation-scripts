@@ -1,14 +1,14 @@
 #! /bin/bash
 
-git clone https://github.com/00riddle00/dotfiles.git /home/$USER/.riddle-dotfiles &&
+git clone https://github.com/00riddle00/dotfiles.git $DOTFILES_DIR &&
 
 echo "### Fetched dotfiles ###"
 
-git clone https://github.com/00riddle00/shell-scripts.git /home/$USER/.riddle-shell-scripts &&
+git clone https://github.com/00riddle00/shell-scripts.git $SHELL_SCRIPTS_DIR &&
 
 echo "### Fetched shell scripts ###"
 
-git clone https://github.com/00riddle00/automation-scripts.git /home/$USER/.riddle-automation &&
+git clone https://github.com/00riddle00/automation-scripts.git $AUTOMATION_DIR &&
 
 echo "### Fetched automation scripts ###"
 

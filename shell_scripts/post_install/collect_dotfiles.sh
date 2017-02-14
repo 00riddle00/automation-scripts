@@ -1,4 +1,4 @@
 #! /bin/bash
 
-cp /home/$USER/.{aliases,bashrc,vimrc,zshrc} /home/$USER/.riddle-dotfiles
+cp $HOME_DIR/.{aliases,bashrc,vimrc,zshrc} $DOTFILES_DIR/
 

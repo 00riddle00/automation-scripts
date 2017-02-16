@@ -149,11 +149,10 @@ i3-wm
 i3lock
 i3status
 
-######
-# main
-######
+############
+# main repos
+############
 
-archey
 bzip2
 conky
 emacs
@@ -175,7 +174,6 @@ lxc
 lynx
 mirage
 #obconf
-qalculate
 qalculate-gtk
 #ranger
 screenfetch
@@ -193,43 +191,55 @@ xscreensaver
 zip
 zsh
 xterm
-yaourt
+yajl
 openbox
-pavucontrol
 adobe-source-code-pro-fonts 
 deluge
 electrum
-irrsi
+irssi
 vimfm
-luakit
 cmus
 rtorrent
 mutt
 pandoc
 lftp
-gcacli
 mplayer
 bc
 ack
 nethack
 cowsay
-fortune
 ncmpcpp 
 mc
+
+
+###########
+# AUR
+###########
+package-query
+yaourt
+archey
+fortune
 qalc
+luakit
+pavucontrol
+gcalcli
 
-from source
-	xmonad
-	teamviewer
-	smargit
-	jetbrains
-	thunderbird
-	sublime
-	google-chrome
-	skype
-	todo
-	gdrive
 
+
+
+#############
+# from source
+#############
+xmonad
+teamviewer
+smargit
+jetbrains
+thunderbird
+sublime
+google-chrome
+skype
+todo
+gdrive
 
 
 ##########################

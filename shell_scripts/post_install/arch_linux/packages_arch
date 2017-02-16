@@ -88,7 +88,6 @@ which
 # xorg
 ######
 
-xf86-video-vesa
 xorg-apps
 xorg-bdftopcf
 xorg-docs
@@ -141,6 +140,17 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 
+##########
+# drivers
+##########
+
+##########
+xf86-input-synaptics 
+xf86-video-vesa
+
+
+
+
 #####
 # i3
 #####
@@ -173,6 +183,7 @@ libreoffice
 lxc
 lynx
 mirage
+ntp
 #obconf
 qalculate-gtk
 #ranger

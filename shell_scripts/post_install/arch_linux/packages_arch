@@ -172,6 +172,9 @@ i3status
 # main repos
 ############
 
+xorg-xinit
+wget
+curl
 bzip2
 conky
 emacs
@@ -207,6 +210,7 @@ vim
 vlc
 wmctrl
 xscreensaver
+xclip
 zip
 zsh
 xterm
@@ -231,6 +235,12 @@ ncmpcpp
 mc
 wpa_supplicant
 steam
+########
+#langs
+########
+
+python-pip
+python3
 
 
 ###########
@@ -238,6 +248,7 @@ steam
 ###########
 package-query
 yaourt
+autokey
 archey
 fortune
 qalc
@@ -246,23 +257,23 @@ pavucontrol
 gcalcli
 tightvnc
 arduino
-
-
+teamviewer
+smartgit
+xmonad
+google-chrome
+skype
+strongswan
+grub2-theme-archlinux
 
 
 
 #############
 # from source
 #############
-xmonad
-teamviewer
-smargit
 jetbrains
-sublime
-google-chrome
-skype
-todo
+sublime-text
 gdrive
+todo
 
 
 ##########################

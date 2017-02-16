@@ -172,6 +172,7 @@ i3status
 # main repos
 ############
 
+alsa-utils
 xorg-xinit
 wget
 curl

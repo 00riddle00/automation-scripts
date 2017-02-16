@@ -144,9 +144,18 @@ xorg-xwud
 # drivers
 ##########
 
-##########
+##################
+#intel+nvidia 960M
+##################
 xf86-input-synaptics 
 xf86-video-vesa
+
+xf86-video-nouveau 
+lib32-mesa 
+mesa-libgl
+lib32-mesa-libgl
+mesa
+mesa-demo
 
 
 
@@ -166,7 +175,7 @@ i3status
 bzip2
 conky
 emacs
-#dolphin
+mlocate
 feh
 filezilla
 fontconfig
@@ -176,22 +185,21 @@ git
 gnome-screensaver
 gzip
 htop
-#konsole
-#lxappearance
-#lxappearance-obconf
+lxappearance
+lxappearance-obconf
 libreoffice
 lxc
 lynx
 mirage
 ntp
-#obconf
+obconf
 qalculate-gtk
-#ranger
 screenfetch
 scrot
 sudo
 terminator
 thunar
+thunderbird
 tmux
 tint2
 unzip
@@ -221,6 +229,8 @@ nethack
 cowsay
 ncmpcpp 
 mc
+wpa_supplicant
+steam
 
 
 ###########
@@ -234,6 +244,9 @@ qalc
 luakit
 pavucontrol
 gcalcli
+tightvnc
+arduino
+
 
 
 
@@ -245,7 +258,6 @@ xmonad
 teamviewer
 smargit
 jetbrains
-thunderbird
 sublime
 google-chrome
 skype

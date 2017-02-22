@@ -238,6 +238,7 @@ mc
 wpa_supplicant
 steam
 openssh
+tig
 
 alsa-utils xorg-xinit wget curl bzip2 conky emacs mlocate feh filezilla fontconfig firefox git gimp gnome-screensaver gzip
 htop lxappearance lxappearance-obconf libreoffice lxc lynx mirage ntp obconf qalculate-gtk screen

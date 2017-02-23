@@ -167,12 +167,18 @@ mesa-demo
 i3-wm
 i3lock
 i3status
+dmenu
 
 ############
 # main repos
 ############
 
 xdotool
+tree
+finch
+httpie
+moreutils
+pacgraph
 alsa-utils
 xorg-xinit
 wget
@@ -258,6 +264,7 @@ python3
 # AUR
 ###########
 keepass
+googlecl
 kpcli
 package-query
 yaourt

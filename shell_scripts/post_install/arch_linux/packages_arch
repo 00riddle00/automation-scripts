@@ -173,7 +173,9 @@ dmenu
 # main repos
 ############
 
+dnsutils
 xdotool
+ctags
 tree
 finch
 httpie

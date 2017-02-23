@@ -175,6 +175,8 @@ dmenu
 
 dnsutils
 xdotool
+unrar
+dosfstools
 ctags
 tree
 finch

@@ -175,6 +175,13 @@ dmenu
 
 dnsutils
 xdotool
+strace
+p7zip
+cairo-dock
+newsbeuter
+screen
+sc
+pidgin
 unrar
 dosfstools
 ctags
@@ -188,7 +195,6 @@ xorg-xinit
 wget
 curl
 bzip2
-conky
 emacs
 mlocate
 feh
@@ -200,8 +206,6 @@ git
 gnome-screensaver
 gzip
 htop
-lxappearance
-lxappearance-obconf
 libreoffice
 lxc
 lynx
@@ -213,6 +217,7 @@ scrot
 sudo
 terminator
 thunar
+thunar-volman
 thunderbird
 tmux
 tint2
@@ -267,6 +272,7 @@ python3
 # AUR
 ###########
 keepass
+downgrade
 googlecl
 kpcli
 package-query
@@ -286,6 +292,7 @@ teamviewer
 #smartgit
 xmonad
 google-chrome
+conky-lua
 skype
 strongswan
 grub2-theme-archlinux

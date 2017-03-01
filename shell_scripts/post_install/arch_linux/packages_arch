@@ -175,6 +175,9 @@ dmenu
 
 dnsutils
 xdotool
+mousepad
+ansible
+sshpass
 strace
 p7zip
 cairo-dock

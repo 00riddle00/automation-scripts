@@ -1,6 +1,10 @@
 [local]
 localhost
 
+[server]
+ovh
+
+
 [lxc]
 lxc1
 

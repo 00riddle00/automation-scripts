@@ -265,6 +265,8 @@ rtorrent mutt pandoc lftp mplayer bc ack nethack cowsay ncmpcpp mc wpa_supplican
 ########
 
 python-pip
+python-pytest
+virtualenvwrapper
 python3
 
 

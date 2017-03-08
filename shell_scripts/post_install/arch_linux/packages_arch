@@ -257,12 +257,6 @@ steam
 openssh
 tig
 
-alsa-utils xorg-xinit wget curl bzip2 conky emacs mlocate feh filezilla fontconfig firefox git gimp gnome-screensaver gzip
-htop lxappearance lxappearance-obconf libreoffice lxc lynx mirage ntp obconf qalculate-gtk screen
-screenfetch scrot sudo terminator thunar thunderbird  tmux tint2 unzip vim  vlc wmctrl xclip xscreensaver 
-zip zsh xterm yajl openbox adobe-source-code-pro-fonts electrum deluge electrum irssi vifm cmus 
-rtorrent mutt pandoc lftp mplayer bc ack nethack cowsay ncmpcpp mc wpa_supplicant steam 
-
 ########
 #langs
 ########
@@ -277,6 +271,7 @@ python3
 # AUR
 ###########
 keepass
+keepass-plugin-keeagent
 downgrade
 googlecl
 kpcli
@@ -309,9 +304,7 @@ grub2-theme-archlinux
 #############
 jetbrains
 sublime-text
-gdrive
-todo
-
+smartgit
 
 ##########################
 # other (rm if not needed)

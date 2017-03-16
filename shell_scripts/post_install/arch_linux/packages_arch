@@ -263,7 +263,6 @@ tig
 ########
 
 python-pip
-python-pytest
 virtualenvwrapper
 python3
 

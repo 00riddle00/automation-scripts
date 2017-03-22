@@ -176,6 +176,9 @@ dmenu
 dnsutils
 archlinux-keyring
 xdotool
+downgrade
+vagrant
+virtualbox
 mousepad
 ansible
 sshpass

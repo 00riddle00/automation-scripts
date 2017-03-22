@@ -204,6 +204,8 @@ mlocate
 feh
 filezilla
 fontconfig
+ttf-dejavu 
+ttf-liberation
 firefox
 gimp
 git

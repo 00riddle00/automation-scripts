@@ -176,6 +176,7 @@ dmenu
 dnsutils
 archlinux-keyring
 xdotool
+strace
 downgrade
 vagrant
 virtualbox

@@ -263,26 +263,26 @@ wpa_supplicant
 steam
 openssh
 tig
+pulseaudio
 
 ########
 #langs
 ########
 
-python-pip
-virtualenvwrapper
 python3
-
+python-pip
 
 ###########
 # AUR
 ###########
+package-query
+yaourt
+
 keepass
 keepass-plugin-keeagent
 downgrade
 googlecl
 kpcli
-package-query
-yaourt
 autokey
 archey
 dropbox
@@ -295,14 +295,11 @@ gcalcli
 tightvnc
 arduino
 teamviewer
-#smartgit
 xmonad
 google-chrome
-conky-lua
-skype
-strongswan
+conky
 grub2-theme-archlinux
-
+strongswan
 
 
 #############
@@ -310,7 +307,6 @@ grub2-theme-archlinux
 #############
 jetbrains
 sublime-text
-smartgit
 
 ##########################
 # other (rm if not needed)

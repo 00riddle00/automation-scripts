@@ -271,6 +271,9 @@ pulseaudio
 
 python3
 python-pip
+jupyter-notebook
+python-ipywidgets
+ipython
 
 ###########
 # AUR

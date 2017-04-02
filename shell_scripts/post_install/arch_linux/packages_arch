@@ -176,7 +176,6 @@ dmenu
 dnsutils
 archlinux-keyring
 xdotool
-downgrade
 vagrant
 virtualbox
 mousepad
@@ -245,7 +244,7 @@ adobe-source-code-pro-fonts
 deluge
 electrum
 irssi
-vimfm
+vifm
 cmus
 rtorrent
 mutt

@@ -176,6 +176,7 @@ dmenu
 dnsutils
 archlinux-keyring
 xdotool
+strace
 vagrant
 virtualbox
 mousepad
@@ -261,26 +262,30 @@ wpa_supplicant
 steam
 openssh
 tig
+pulseaudio
 
 ########
 #langs
 ########
 
-python-pip
-virtualenvwrapper
 python3
-
+python-pip
+jupyter-notebook
+python-ipywidgets
+ipython
 
 ###########
 # AUR
 ###########
+package-query
+yaourt
+
+downgrade
 keepass
 keepass-plugin-keeagent
 downgrade
 googlecl
 kpcli
-package-query
-yaourt
 autokey
 archey
 dropbox
@@ -293,14 +298,11 @@ gcalcli
 tightvnc
 arduino
 teamviewer
-#smartgit
 xmonad
 google-chrome
-conky-lua
-skype
-strongswan
+conky
 grub2-theme-archlinux
-
+strongswan
 
 
 #############
@@ -308,7 +310,6 @@ grub2-theme-archlinux
 #############
 jetbrains
 sublime-text
-smartgit
 
 ##########################
 # other (rm if not needed)

@@ -157,6 +157,7 @@ lib32-mesa-libgl
 mesa
 mesa-demo
 
+nvidia nvidia-utils cuda cudnn
 
 
 

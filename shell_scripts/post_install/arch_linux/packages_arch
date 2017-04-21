@@ -177,6 +177,9 @@ dmenu
 dnsutils
 archlinux-keyring
 xdotool
+gmrun
+xsel
+copyq
 strace
 vagrant
 virtualbox

@@ -177,6 +177,8 @@ dmenu
 dnsutils
 archlinux-keyring
 xdotool
+nmp
+nodejs
 gmrun
 xsel
 copyq

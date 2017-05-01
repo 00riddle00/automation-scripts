@@ -179,6 +179,7 @@ archlinux-keyring
 xdotool
 nmp
 nodejs
+net-tools
 gmrun
 xsel
 copyq

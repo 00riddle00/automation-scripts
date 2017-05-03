@@ -177,6 +177,7 @@ dmenu
 dnsutils
 archlinux-keyring
 xdotool
+atom
 nmp
 nodejs
 net-tools

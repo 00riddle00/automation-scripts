@@ -1,6 +1,5 @@
-# Configuration management
+## Configuration management
 
-<br>
 ## CM tools comparison
 * [Ansible](#ansible)<br>
 * [SaltStack](#saltstack)<br>
@@ -8,11 +7,8 @@
 * [Chef](#chef)<br>
 * [Fabric](#fabric)<br>
 
-<br>
-## [Sources used for research](SOURCES.md)
+### [Sources used for research](SOURCES.md)
 
-<br>
-***
 ## Ansible
 
 ### Features
@@ -37,8 +33,6 @@
 * Slower than others
 * Difficulties with scalability
 
-<br>
-***
 ## SaltStack
 
 ### Features
@@ -60,8 +54,6 @@
 * Possibly less secure (using its own built security protocols instead of TLS)
 * Very fast moving, hence there appear errors even in stable releases
 
-<br>
-***
 ## Puppet
 
 ### Features
@@ -82,8 +74,6 @@
 * Requires puppet agent install on client nodes
 * Poor puppetization of puppetmaster server itself
 
-<br>
-***
 ## Chef 
 
 ### Features
@@ -103,8 +93,6 @@
 * More difficult management
 * Steepest learning curve
 
-<br>
-***
 ## Fabric 
 
 ### Features
@@ -118,5 +106,3 @@
 
 ### Cons
 * Less possibilities, less powerful
-
- 

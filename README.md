@@ -1,13 +1,11 @@
-## Configuration management
-
-## CM tools comparison
+## Configuration Management tools comparison
 * [Ansible](#ansible)<br>
 * [SaltStack](#saltstack)<br>
 * [Puppet](#puppet)<br>
 * [Chef](#chef)<br>
 * [Fabric](#fabric)<br>
 
-### [Sources used for research](SOURCES.md)
+## [Sources used for research](SOURCES.md)
 
 ## Ansible
 

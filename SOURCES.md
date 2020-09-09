@@ -1,5 +1,5 @@
 ## Sources used for research
-<br>
+
 * http://blog.takipi.com/deployment-management-tools-chef-vs-puppet-vs-ansible-vs-saltstack-vs-fabric/
 * http://www.infoworld.com/article/2609482/data-center/data-center-review-puppet-vs-chef-vs-ansible-vs-salt.html
 * http://www.intigua.com/blog/puppet-vs.-chef-vs.-ansible-vs.-saltstack
